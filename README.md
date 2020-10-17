@@ -8,11 +8,13 @@ char.txt files are extracted from the top 10 million password list.
 word.txt files are extracted from a common English dictionary.
 
 
+
 **Todo list:**
 
 Covert everything to HEX ending in .dic
 
 Covert word.txt two files Uppercase and lower and then into HEX ending in .dic
+
 
 
 
@@ -24,11 +26,17 @@ These are shorter lists and known default keys. My lists are to be used after th
 
 
 
+
 **Some examples on what my lists could be used for:**
+
 T55xx and the em4305 chips use a 4 character password
+
 iClass uses a 8 characters password
+
 Mifare Classic uses a 12 characters passowrd
+
 Mifare Pluse uses a 16 characters password
+
 
 
 
