@@ -46,7 +46,7 @@ Mifare Pluse uses a 16 characters password
 
 50415353 spells out PASS
 ```
-These wouldn't be found in the most common password list, but they would be in the upercase dictionary. Again, the more efficent way to do this would have been to run the t55xx_default_pwds.dic from https://github.com/RfidResearchGroup/proxmark3/tree/master/client/dictionaries. If they had not published that great default password list, then we still would have been able to find these passwords without needing to try all possiblities.
+These wouldn't be found in the most common password list, but they would be in the upercase dictionary. Again, the more efficent way to do this would have been to run the t55xx_default_pwds.dic from https://github.com/RfidResearchGroup/proxmark3/tree/master/client/dictionaries. If they had not published that great default password list, then we still would have been able to find these passwords without needing to try all possiblities which could take years.
  
 When looking at the Mifare Plus list in mfp_default_keys.dic, we see that there is some corresponding to ASCII with the passwords: 
 ```
