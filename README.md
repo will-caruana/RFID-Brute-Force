@@ -1,6 +1,6 @@
 # RFID-Brute-Force
 
-These are text password lists that can be used to brute force RFID passwords. There are a lot better ways to find a password, but I haven't seen anyone talk about using normal password lists against RFID tags or publishing a list exlusively for this purpose.
+These are text password lists that can be used to brute force RFID passwords. There are a lot better ways to find a password, but I haven't seen anyone talk about using normal password lists against RFID tags or publishing a list exclusively for this purpose.
 
 
 char.txt files are extracted from the top 10 million password list.
@@ -31,9 +31,9 @@ These are shorter lists and known default keys. My lists are to be used after th
 
 T55xx and the em4305 chips use a 4 character password
 
-iClass uses a 8 characters password
+iClass uses an 8 characters password
 
-Mifare Classic uses a 12 characters passowrd
+Mifare Classic uses a 12 characters password
 
 Mifare Pluse uses a 16 characters password
 
