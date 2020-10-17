@@ -67,11 +67,11 @@ When reviewing default passwords from other lists you start seeing common passwo
 ```
 a0a1a2a3a4a5 
 b0b1b2b3b4b5
-mfc_default_keys.dic
+from mfc_default_keys.dic
 
 a0a1a2a3a4a5a6a7a0a1a2a3a4a5a6a7
 b0b1b2b3b4b5b6b7b0b1b2b3b4b5b6b7
-mfp_default_keys.dic
+from mfp_default_keys.dic
 ```
 
 As you can see there are some common themes in these default password lists I took those themes and expanded them to fit the iClass key space.
