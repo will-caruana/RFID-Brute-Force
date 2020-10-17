@@ -57,3 +57,21 @@ When looking at the Mifare Plus list in mfp_default_keys.dic, we see that there 
 605F5E5D5C5B5A59605F5E5D5C5B5A59 = `_^]\[ZY`_^]\[ZY
 ```
 Those would not appear in any of the above lists, but this just shows more evidence of an ASCII collocation.
+
+
+
+**iClass_Other.dic**
+
+When reviewing default passwords from other lists you start seeing common password schemes being using. For example:
+
+```
+a0a1a2a3a4a5 
+b0b1b2b3b4b5
+mfc_default_keys.dic
+
+a0a1a2a3a4a5a6a7a0a1a2a3a4a5a6a7
+b0b1b2b3b4b5b6b7b0b1b2b3b4b5b6b7
+mfp_default_keys.dic
+```
+
+As you can see there are some common themes in these default password lists I took those themes and expanded them to fit the iClass key space.
