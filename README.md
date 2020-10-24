@@ -11,10 +11,7 @@ word.txt files are extracted from a common English dictionary.
 
 **Todo list:**
 
-Covert everything to HEX ending in .dic
-
-Covert word.txt two files Uppercase and lower and then into HEX ending in .dic
-
+Covert all lists to HEX ending in .dic
 
 
 
