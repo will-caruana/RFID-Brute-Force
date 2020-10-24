@@ -7,7 +7,7 @@ char.txt files are extracted from the top 10 million password list.
 
 word.txt files are extracted from a common English dictionary.
 
-
+charUP.txt and wordUP.txt Since most evidence (how ever small) shows that uppercase passwords are normally used with RFID these lists have been added.
 
 **Todo list:**
 
