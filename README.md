@@ -65,3 +65,6 @@ from mfp_default_keys.dic
 ```
 
 As you can see there are some common themes in the above case its a0 then a1 ect. In these default password lists I took those themes and expanded them to fit the iClass key space. If you combine this with the other list https://github.com/RfidResearchGroup/proxmark3/blob/master/client/dictionaries/iclass_default_keys.dic It still only takes 1 second to run through all 86 keys.
+
+
+Thank you to BusesCanFly for all the help!
