@@ -22,9 +22,9 @@ These are shorter lists and known default keys. My lists are to be used after th
 
 T55xx and the em4305 chips use a 4 character password
 
-iClass uses an 8 characters password
+Mifare Classic uses a 6 characters password (which will be added soon)
 
-Mifare Classic uses a 12 characters password
+iClass uses an 8 characters password
 
 Mifare Pluse uses a 16 characters password
 
