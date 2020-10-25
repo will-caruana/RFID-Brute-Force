@@ -3,16 +3,11 @@
 These are text password lists that can be used to brute force RFID passwords. There are a lot better ways to find a password, but I haven't seen anyone talk about using normal password lists against RFID tags or publishing a list exclusively for this purpose.
 
 
-char.txt files are extracted from the top 10 million password list.
+char.dic files are extracted from the top 10 million password list.
 
-word.txt files are extracted from a common English dictionary.
+word.dic files are extracted from a common English dictionary.
 
-charUP.txt and wordUP.txt Since most evidence (how ever small) shows that uppercase passwords are normally used with RFID these lists have been added.
-
-**Todo list:**
-
-Covert all lists to HEX ending in .dic
-
+charUP.dic and wordUP.dic Since most evidence (how ever small) shows that uppercase passwords are normally used with RFID these lists have been added.
 
 
 **A better dictionary to use is:**
@@ -20,7 +15,6 @@ Covert all lists to HEX ending in .dic
 https://github.com/RfidResearchGroup/proxmark3/tree/master/client/dictionaries
 
 These are shorter lists and known default keys. My lists are to be used after the dictionary lists have been exhausted, and after other possible attacks have failed.
-
 
 
 
@@ -33,7 +27,6 @@ iClass uses an 8 characters password
 Mifare Classic uses a 12 characters password
 
 Mifare Pluse uses a 16 characters password
-
 
 
 
